@@ -99,6 +99,19 @@ This project predicts:
 
 ---
 
+## 🗄️ SQL Analysis
+
+Performed SQL-based analysis to extract key insights:
+
+- Customer distribution across regions
+- Average balance by gender
+- Churn distribution
+- Impact of active membership on churn
+- Relationship between number of products and churn
+
+SQL queries are available in:
+scripts/queries.sql
+
 ## 📁 Project Structure
 
 ```
